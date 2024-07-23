@@ -1,0 +1,6 @@
+
+      Scanner sc=new Scanner(System.in);
+      int a=sc.nextInt();
+      int b=sc.nextInt();
+      String result=(a>b)?"A is greater then B":"B is greater than A";
+      System.out.println(result);
